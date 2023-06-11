@@ -1,6 +1,7 @@
 # Foro Alura
 
 Foro Alura es una aplicación web que permite a los usuarios crear, leer, actualizar y eliminar tópicos de discusión. Desarrollo backend con el lenguaje de programación JAVA y Spring Boot Framework, y en frontend html, JS, y vue con Bootstrap.
+![Principal](https://i.pinimg.com/originals/42/1b/f5/421bf53b641060d80b0ddfb610e1eae1.png)
 
 ## Características
 - Crear un nuevo tópico:
@@ -14,9 +15,10 @@ Leer tópicos existentes:
 - Los tópicos se obtienen del servidor a través de una solicitud HTTP GET y se muestran en la interfaz de usuario.
 Actualizar un tópico:
 
-Los usuarios pueden editar un tópico existente, incluyendo su título, mensaje, autor y curso relacionado.
+- Los usuarios pueden editar un tópico existente, incluyendo su título, mensaje, autor y curso relacionado.
 
-Los cambios realizados en el tópico se envían al servidor a través de una solicitud HTTP PUT y se actualizan en la base de datos.
+    ![Principal](https://i.pinimg.com/originals/42/1b/f5/421bf53b641060d80b0ddfb610e1eae1.png)
+- Los cambios realizados en el tópico se envían al servidor a través de una solicitud HTTP PUT y se actualizan en la base de datos.
 
 - Eliminar un tópico:
 
